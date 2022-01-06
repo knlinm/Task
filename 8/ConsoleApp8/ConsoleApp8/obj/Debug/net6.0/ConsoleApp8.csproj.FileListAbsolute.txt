@@ -1,0 +1,16 @@
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ref\ConsoleApp8.dll
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GlobalUsings.g.cs
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\knuhb\Desktop\New folder (3)\8\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
